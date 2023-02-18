@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://cllabs.dev/">
-        <img src="https://github.com/ceyleon-devs/.github/blob/main/profile/bann.png?raw=true" alt="CL Labs Logo" width="200" height="200">
+        <img src="https://github.com/ceyleon-devs/.github/blob/main/profile/banner.png?raw=true" alt="CL Labs Logo" width="200" height="200">
     </a>
 </p>
 
